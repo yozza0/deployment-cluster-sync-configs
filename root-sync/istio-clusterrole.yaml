@@ -14,5 +14,6 @@ rules:
   - "authorizationpolicies"
   - "gateways"
   - "httproutes"
+  - "serviceentries"
   verbs:
   - "*"
