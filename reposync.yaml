@@ -8,5 +8,5 @@ spec:
     repo: https://github.com/GoogleCloudPlatform/microservices-demo
     revision: HEAD
     branch: main
-    dir: release/kubernetes-manifests.yaml
+    dir: release
     auth: none
