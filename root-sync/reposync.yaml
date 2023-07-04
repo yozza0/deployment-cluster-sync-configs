@@ -6,9 +6,7 @@ spec:
   sourceFormat: unstructured
   git:
     repo: https://github.com/GoogleCloudPlatform/microservices-demo
-    #repo: https://github.com/yozza0/deployment-cluster-sync-configs
     revision: HEAD
     branch: main
     dir: release
-    #dir: repo-sync
     auth: none
