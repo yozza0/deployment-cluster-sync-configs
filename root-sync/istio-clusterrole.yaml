@@ -13,5 +13,6 @@ rules:
   - "virtualservices"
   - "authorizationpolicies"
   - "gateways"
+  - "httproutes"
   verbs:
   - "*"
