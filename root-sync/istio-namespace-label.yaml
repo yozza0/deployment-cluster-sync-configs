@@ -1,0 +1,8 @@
+# enable istio
+
+apiVersion: v1
+kind: Namespace
+metadata:
+  labels:
+    istio.io/rev: asm-managed
+  name: default
